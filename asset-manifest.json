@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d3578f6a.css",
+    "main.js": "/portfolio/static/js/main.a834185f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ligthbg.png": "/portfolio/static/media/ligthbg.c9eb71e211bd0c840bed.png",
+    "static/media/self.jpg": "/portfolio/static/media/self.1a7842a5dda0d7471cff.jpg",
+    "static/media/hero-bg.png": "/portfolio/static/media/hero-bg.536a5c15811bd9261a04.png",
+    "static/media/quiz-class.png": "/portfolio/static/media/quiz-class.4538faf9e399d67816bf.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/github-square-brands.svg": "/portfolio/static/media/github-square-brands.bdd05eb0a44d2eff01dd26eaa0b307bb.svg",
+    "static/media/sun-solid.svg": "/portfolio/static/media/sun-solid.4f202eaec73ceeb5c2612e3fd0bcc567.svg",
+    "static/media/x-solid.svg": "/portfolio/static/media/x-solid.31c815a00a12259495b28c6073fef815.svg",
+    "static/media/linkedin-brands.svg": "/portfolio/static/media/linkedin-brands.787aa301244425e7fe5bdcff7917892f.svg",
+    "static/media/bars-solid.svg": "/portfolio/static/media/bars-solid.4de0b64b468d9cdbdd41f4d490765099.svg",
+    "static/media/moon-solid.svg": "/portfolio/static/media/moon-solid.24663276c05fe9e5c5d44c7b22966454.svg",
+    "main.d3578f6a.css.map": "/portfolio/static/css/main.d3578f6a.css.map",
+    "main.a834185f.js.map": "/portfolio/static/js/main.a834185f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3578f6a.css",
+    "static/js/main.a834185f.js"
+  ]
+}
